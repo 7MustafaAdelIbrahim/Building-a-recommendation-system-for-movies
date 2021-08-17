@@ -10,6 +10,8 @@ Recommender systems try to capture these patterns and similar behaviors, to help
 
 Recommender systems have many applications that I’m sure you’re already familiar with. Indeed, Recommender systems are usually at play on many websites.
 For example, **suggesting books on Amazon** and **movies on Netflix**. If a certain movie gets viewed frequently enough, Netflix’s recommender system ensures that that movie gets an increasing number of recommendations. 
+![netflix-recommendation-s](https://user-images.githubusercontent.com/84151016/129805089-f553982e-6af3-4c6d-a8dc-963552910bc4.jpeg)
+
 <u>**Another example**</u> can be found in a **daily-use mobile app**. On social media, sites like **Facebook** or **LinkedIn**, regularly recommend **friendships**.
 
 ## the main benefits of using a recommendation system. 
