@@ -12,7 +12,8 @@ Recommender systems have many applications that I’m sure you’re already fami
 For example, **suggesting books on Amazon** and **movies on Netflix**. If a certain movie gets viewed frequently enough, Netflix’s recommender system ensures that that movie gets an increasing number of recommendations. 
 ![netflix-recommendation-s](https://user-images.githubusercontent.com/84151016/129805089-f553982e-6af3-4c6d-a8dc-963552910bc4.jpeg)
 
-<u>**Another example**</u> can be found in a **daily-use mobile app**. On social media, sites like **Facebook** or **LinkedIn**, regularly recommend **friendships**.
+
+**Another example** can be found in a **daily-use mobile app**. On social media, sites like **Facebook** or **LinkedIn**, regularly recommend **friendships**.
 
 ## the main benefits of using a recommendation system. 
 One of the main advantages of using recommendation systems is that **users get a broader exposure to many different products they might be interested in**. 
@@ -45,4 +46,3 @@ In terms of implementing recommender systems, there are 2 types: **Memory-based 
    
    **In model-based approaches.** 
    a model of users is developed in an attempt to learn their preferences. Models can be created using Machine Learning techniques like regression, clustering, classification, and so on.
-
